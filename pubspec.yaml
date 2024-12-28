@@ -9,7 +9,7 @@ environment:
   sdk: ^3.4.0
 
 dependencies:
-  collection: ^1.19.1
+  collection: ^1.19.0
 
 dev_dependencies:
   test: ^1.25.14
